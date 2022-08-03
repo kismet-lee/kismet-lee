@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kismet-lee
 - 👀 I’m interested in front-end development, design, music, and art!
-- 🌱 I’m currently learning tailwindcss!
+- 🌱 I’m currently learning tailwindcss, js, react, and python. Take a look at my portfolio here on Github. I am easing my way into adding react components to some of my projects. If you have any feedback or want to contribute, I would love it if you did. Help a junior out!
 - 💞️ I’m looking to collaborate on fun projects that involve language learning and art.
 - 📫 How to reach me ...
 
